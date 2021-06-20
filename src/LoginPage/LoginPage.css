@@ -1,0 +1,20 @@
+.label {
+    font-size: 20px;
+}
+
+.loginForm {
+    background-color: palegoldenrod;
+    border: dimgray 1px solid;
+    margin: 5% 40%;
+    padding: 20px 0px;
+}
+
+.title {
+    color: orange;
+    margin-top: 5%;
+}
+
+.logoutButton {
+    font-size: 20px;
+    margin-top: 15px;
+}
